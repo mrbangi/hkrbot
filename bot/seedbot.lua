@@ -217,7 +217,12 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-    "invite"
+    "invite",
+    "wlc",
+    "tagall",
+    "ids",
+    "feedback",
+    "chat",
     },
     sudo_users = {110626080,103649648,0,tonumber(164059631)},--Sudo users
     disabled_channels = {},
