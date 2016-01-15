@@ -224,28 +224,15 @@ function create_config( )
     "feedback",
     "chat",
     },
-    sudo_users = {110626080,103649648,0,tonumber(164059631)},--Sudo users
+    sudo_users = {164059631,0,tonumber(164059631)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[gp manager
 An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
+https://github.com/mrbangi
 Our channels
-@teleseedch [English]
+@team_supp
 ]],
     help_text = [[
 Commands list :
